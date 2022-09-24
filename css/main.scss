@@ -10,6 +10,6 @@ $grey-color-dark:  darken($grey-color, 25%);
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "milligram/milligram",
-        "_base",
-        "_layout"
+        "base",
+        "layout"
 ;
